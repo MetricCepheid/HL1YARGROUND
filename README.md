@@ -1,3 +1,4 @@
+# ValveSoftware owns the assets and the rights to their IP. (Half-Life 1)
 ```
     -       Day 1 Revisions      -
 1.   Build 03-14-2025 11:38:06 PM
