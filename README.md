@@ -3,7 +3,7 @@
 - UPDATE 2: These files are now in a GitHub repo!!!
 
 
-      Day 1 Revisions:
+        Day 1 Revisions:
 1.   Build 03-14-2025 11:38:06 PM
 
            Day 2 Revisions:      
