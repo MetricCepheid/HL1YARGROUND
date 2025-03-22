@@ -1,0 +1,222 @@
+fileFormatVersion: 2
+guid: f308c554e8b74e3609d4dd844a09b967
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gman_GMAN_Face2.bmp
+    second: {fileID: 2100000, guid: d15b268b95c28f29a9c4469aa114bee0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gman_GMan_Arm-L1.bmp
+    second: {fileID: 2100000, guid: ae2c421e431705147a4832fda14b867b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gman_GMan_Arm-R1.bmp
+    second: {fileID: 2100000, guid: 0eee411589cc005f28d9394a889aac97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gman_GMan_BArm-1.bmp
+    second: {fileID: 2100000, guid: 0109225a1a7b3835c866107f9acd910e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gman_GMan_Back2.bmp
+    second: {fileID: 2100000, guid: df3841355eef1f9b1b6c7d209469cb67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gman_GMan_Case1.bmp
+    second: {fileID: 2100000, guid: a3844c2fb4803be1b8eea6335553c746, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gman_GMan_Cheek1.bmp
+    second: {fileID: 2100000, guid: 37f73bd3491ed8c79a659e907765277f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gman_GMan_Collar1.bmp
+    second: {fileID: 2100000, guid: 842e22d79096cafd08a1e4d3113514b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gman_GMan_FootBtm1.bmp
+    second: {fileID: 2100000, guid: edcda4a403186fbb89829afcca5a5ab5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gman_GMan_Hair1.bmp
+    second: {fileID: 2100000, guid: 3f01313f2c4ea4bed92b6289bed2b503, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gman_GMan_Hand-Btm1.bmp
+    second: {fileID: 2100000, guid: b506946f125e452398f5851476422137, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gman_GMan_Hand-Top1.bmp
+    second: {fileID: 2100000, guid: 1a02d1e50549f7f7baef31f333100ef6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gman_GMan_Mouth1.bmp
+    second: {fileID: 2100000, guid: 9f584288a7dbff46d8fd9110357051c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gman_GMan_PantsBck1.bmp
+    second: {fileID: 2100000, guid: cd83aa5046890c5cba4e1c0518301983, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gman_GMan_PantsBtm1.bmp
+    second: {fileID: 2100000, guid: 06664ccf601d09d22a6e8410c36f3fc3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gman_GMan_Pelvis1.bmp
+    second: {fileID: 2100000, guid: 4feebf15eb872f51cb9283da91f3bae0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gman_GMan_Shin1.bmp
+    second: {fileID: 2100000, guid: 64938eefcf73ec9ce9d51f790336812d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gman_GMan_Shoe1.bmp
+    second: {fileID: 2100000, guid: af56ff9421315dc6c8ea0477d0fb46ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gman_GMan_SlvTip1.bmp
+    second: {fileID: 2100000, guid: 8bd932bddb5933fa89aed202f5c8dfb6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gman_GMan_SuitTop2.bmp
+    second: {fileID: 2100000, guid: aa13b039203d5336c983f01c0d2ba522, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gman_GMan_Teeth1.bmp
+    second: {fileID: 2100000, guid: 91a09bbe47239c4948de5eb5e7733102, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gman_inside_1.bmp
+    second: {fileID: 2100000, guid: e064e422e237c1c8883ba50358e08971, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gman_inside_2.bmp
+    second: {fileID: 2100000, guid: 3cdcfaf5fae469e5cb9586cdcd29d16d, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,64 @@
+// Created by Crowbar 0.74
+====== File Size ======
+	73,776
+====== File Seek Log ======
+	0 - 243 MDL File Header
+	244 - 323 aTexture [PLAYER_Chrome1.bmp]
+	324 - 403 aTexture [PLAYER_Deltoid1.bmp]
+	404 - 483 aTexture [PLAYER_Back1.bmp]
+	484 - 563 aTexture [PLAYER_Legs1.bmp]
+	564 - 643 aTexture [PLAYER_LegBck1.bmp]
+	644 - 723 aTexture [PLAYER_FootBtm1.bmp]
+	724 - 803 aTexture [PLAYER_Chest1.bmp]
+	804 - 883 aTexture [PLAYER_Shoulders1.bmp]
+	884 - 963 aTexture [PLAYER_Bicep1.bmp]
+	964 - 1,043 aTexture [PLAYER_ForeArm1.bmp]
+	1,044 - 1,123 aTexture [PLAYER_Knee-Bck1.bmp]
+	1,124 - 1,203 aTexture [PLAYER_Calf1.bmp]
+	1,204 - 1,283 aTexture [PLAYER_Boots.bmp]
+	1,284 - 1,363 aTexture [PLAYER_FootTop1.bmp]
+	1,364 - 1,443 aTexture [PLAYER_Hand-Btm1.bmp]
+	1,444 - 1,523 aTexture [PLAYER_Hand-Top1.bmp]
+	1,524 - 1,603 aTexture [PLAYER_Cuff1.bmp]
+	1,604 - 1,683 aTexture [PLAYER_Shldr-Joint.bmp]
+	1,684 - 1,763 aTexture [PLAYER_FaceSide1.bmp]
+	1,764 - 1,843 aTexture [PLAYER_Face1.bmp]
+	1,844 - 1,923 aTexture [PLAYER_FaceTop1.bmp]
+	1,924 - 2,003 aTexture [PLAYER_Inmouth1.bmp]
+	2,004 - 2,083 aTexture [PLAYER_Teeth1.bmp]
+	2,084 - 2,163 aTexture [PLAYER_Helm(Top).bmp]
+	2,164 - 2,243 aTexture [PLAYER_Helm(Fnt)1.bmp]
+	2,244 - 2,323 aTexture [PLAYER_Helm(Sde1.bmp]
+	2,324 - 2,403 aTexture [PLAYER_Helm(Rim)1.bmp]
+	2,404 - 2,483 aTexture [PLAYER_Helm(Rim2).bmp]
+	2,484 - 2,539 theMdlFileData.theSkinFamilies 1
+	2,540 - 7,403 aTexture.theData
+	7,404 - 8,927 aTexture.theData
+	8,928 - 15,687 aTexture.theData
+	15,688 - 21,111 aTexture.theData
+	21,112 - 23,799 aTexture.theData
+	23,800 - 24,719 aTexture.theData
+	24,720 - 28,455 aTexture.theData
+	28,456 - 29,923 aTexture.theData
+	29,924 - 32,163 aTexture.theData
+	32,164 - 33,939 aTexture.theData
+	33,940 - 35,351 aTexture.theData
+	35,352 - 37,079 aTexture.theData
+	37,080 - 39,739 aTexture.theData
+	39,740 - 42,331 aTexture.theData
+	42,332 - 43,699 aTexture.theData
+	43,700 - 46,519 aTexture.theData
+	46,520 - 47,575 aTexture.theData
+	47,576 - 49,379 aTexture.theData
+	49,380 - 53,843 aTexture.theData
+	53,844 - 60,251 aTexture.theData
+	60,252 - 62,139 aTexture.theData
+	62,140 - 62,979 aTexture.theData
+	62,980 - 64,027 aTexture.theData
+	64,028 - 65,887 aTexture.theData
+	65,888 - 69,679 aTexture.theData
+	69,680 - 71,847 aTexture.theData
+	71,848 - 72,807 aTexture.theData
+	72,808 - 73,775 aTexture.theData
+	73,776 - 73,776 END OF FILE + 1 (File size)
+========================
